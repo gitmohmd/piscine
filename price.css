@@ -36,3 +36,13 @@ header nav {
    display: inline-block;
    margin-top: 3px;
    background-color: #5DADEC;
+}
+
+header nav li {
+   display: inline-block;
+   margin-left: 80px;
+   background-color: white;
+}
+ header nav li a:hover  {
+   background-color: #ACE5EE;
+}
