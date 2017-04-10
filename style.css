@@ -1,3 +1,7 @@
+body{
+  background-image: url(http://www.ospreypools.co.uk/blog/wp-content/uploads/2014/02/swimming-pool-renovation.jpg);
+}
+
 header {
   width: auto;
   height: 100px;
@@ -38,6 +42,10 @@ header nav li {
    background-color: #ACE5EE;
 }
 
+section {
+  margin: auto;
+}
+
 section img {
   float: left;
   width: 40%;
@@ -49,3 +57,19 @@ sectcion p {
   height: auto;
   margin: auto;
 }
+
+footer {
+   position: relative;
+   background-color: rgb(121, 78, 45);
+   width: auto;
+   height: 100px;
+}
+
+footer ul {
+  position: absolute;
+  right: 100px;
+}
+
+footer li {
+  display: inline-block;
+  margin-right: 50px;
