@@ -36,3 +36,16 @@ header nav li {
 }
  header nav li a:hover  {
    background-color: #ACE5EE;
+}
+
+section img {
+  float: left;
+  width: 40%;
+  height: auto;
+}
+
+sectcion p {
+  width: auto;
+  height: auto;
+  margin: auto;
+}
