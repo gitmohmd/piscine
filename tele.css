@@ -41,3 +41,23 @@ header nav li {
  header nav li a:hover  {
    background-color: #ACE5EE;
 }
+
+
+section {
+   width: auto;
+   height: auto;
+   position: relative;
+   margin: auto;
+   text-align: center;
+}
+
+.map {
+  position: relative;
+  width: 100%;
+  height: auto;
+}
+section form {
+  margin-top: 10px;
+  display: block;
+  text-align: left;
+}
